@@ -1,4 +1,4 @@
-# terraform-google-project
+# terraform-google-project ![policy](https://github.com/kapetndev/terraform-google-project/workflows/policy/badge.svg?event=push)
 
 Terraform module to create and manage a Google Cloud Platform project.
 
