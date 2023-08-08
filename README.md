@@ -13,6 +13,13 @@ module "my_project" {
 }
 ```
 
+## Examples
+
+- [minimal-project](examples/minimal-project) - Create a project with the
+  minimal configuration.
+- [project-and-services](examples/project-and-services) - Create a project with
+  additional configuration to manage services and IAM.
+
 ## Requirements
 
 | Name | Version |
